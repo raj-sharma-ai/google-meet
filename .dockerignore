@@ -2,9 +2,6 @@ recordings/
 electron-app/
 chrome-extantion/
 meeting/
-recordings/
-uploads/
-reports/
 __pycache__/
 *.pyc
 .git/
